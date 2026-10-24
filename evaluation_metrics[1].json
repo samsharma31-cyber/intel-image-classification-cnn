@@ -1,0 +1,19 @@
+{
+    "dataset": "Intel Image Classification",
+    "classes": [
+        "buildings",
+        "forest",
+        "glacier",
+        "mountain",
+        "sea",
+        "street"
+    ],
+    "total_labeled_images": 17034,
+    "training_images": 11923,
+    "validation_images": 2555,
+    "testing_images": 2556,
+    "test_accuracy_percent": 85.52,
+    "test_loss": 0.4138,
+    "model_type": "Custom CNN trained from scratch",
+    "image_size": "128x128"
+}
